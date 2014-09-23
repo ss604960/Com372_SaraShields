@@ -1,35 +1,21 @@
 <!DOCTYPE HTML>
 <html>
-<head> 
-<title>Lentil Soup Recipe</title> 
+<head>
 
-<meta charset="utf-8" />
-<style>
 
-#MainTitle {
-	background-color: white;
-	color: black;
-}
-
-        
-</style>
-</head>
-
-<hgroup id="MainTitle">
-	<h1>Lentil Soup Recipe</h1> 
-</hgroup>
-</head>
+<title><h1>Lentil Soup Recipe</h1></title> 
 
 <h3>
 This is my favorite Lentil soup. It's very simple,<br>
 and I've cobbled it together by trying some other recipes<br>
 and then well, leaving stuff out. It is very, very simple,<br>
 but it is also one of my favorite foods ever. Here are the ingredients:<br>
-</h3>
+<h3>
 
 
-<h2>Ingredients:</h2>
+<strong><h2>Ingredients:</h2></strong>
 
+</head>
 
 <body>
 
